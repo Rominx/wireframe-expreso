@@ -1,0 +1,83 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#wrapper {
+	height: 923px;
+	width: 1366px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#container {
+	float: left;
+	height: 923px;
+	width: 1051px;
+}
+#container2 {
+	float: right;
+	height: 923px;
+	width: 315px;
+}
+#container .pequeno {
+	float: left;
+	width: 264px;
+	height: 406px;
+	margin-left: 12.75px;
+	background-color: #CCC;
+	margin-top: 30px;
+}
+#container .grande {
+	float: left;
+	width: 472px;
+	height: 406px;
+	margin-left: 12.75px;
+	background-color: #999;
+	margin-top: 30px;
+}
+#container .pequeno2 {
+	float: left;
+	height: 395px;
+	width: 360px;
+	margin-left: 12.75px;
+	margin-top: 30px;
+	background-color: #666;
+}
+#container .grande2 {
+	float: left;
+	width: 653px;
+	margin-left: 12.75px;
+	height: 395px;
+	margin-top: 30px;
+	background-color: #333;
+}
+#container2 .redes {
+	float: left;
+	height: 85px;
+	width: 292px;
+	background-color: #CCC;
+	margin-top: 30px;
+}
+#container2 .publicidad {
+	float: left;
+	height: 252px;
+	width: 316px;
+	background-color: #666;
+	margin-top: 10px;
+}
+#container2 .versionimpresa {
+	float: left;
+	height: 288px;
+	width: 250px;
+	background-color: #333;
+	margin-top: 10px;
+}
+#container2 .encuesta {
+	float: left;
+	height: 175px;
+	width: 250px;
+	background-color: #CCC;
+	margin-top: 10px;
+}
