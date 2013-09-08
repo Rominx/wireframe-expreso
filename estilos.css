@@ -17,6 +17,15 @@ p {
 	color:white;
 }
 
+
+.navegador {
+	background-color:#e1e5e4;
+}
+
+.seccion {
+	background-color:#bababa;
+}
+
 .page-header {
 	width: 1366px;
 	height: 95px;
@@ -99,3 +108,5 @@ footer {
 	height: 150px;
 	clear: both;
 	}
+
+	
