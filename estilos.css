@@ -10,6 +10,11 @@ body {
 
 .espacio {
 	margin-bottom: 20px;
+	background-color: #005a9f;
+}
+
+p {
+	color:white;
 }
 
 .page-header {
