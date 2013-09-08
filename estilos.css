@@ -31,75 +31,89 @@ p {
 	height: 95px;
 	background: #000000;
 }
-#container {
-	float: left;
-	height: 923px;
-	width: 1051px;
+.contenido{
+	width: 1170px;
+	height: 809px;
 }
-#container2 {
-	float: right;
-	height: 923px;
-	width: 300px;
+.izquierda {
+	width: 900px;
+	height: 809px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 25px;
 }
-#container .pequeno {
-	float: left;
-	width: 264px;
-	height: 406px;
-	margin-left: 12.75px;
-	background-color: #CCC;
-	margin-top: 30px;
+.espectaculos {
+	width: 225px;
+	height: 347px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 5px;
 }
-#container .grande {
-	float: left;
-	width: 472px;
-	height: 406px;
-	margin-left: 12.75px;
-	background-color: #999;
-	margin-top: 30px;
+.foto {
+	width: 405px;
+	height: 368px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 15px;
 }
-#container .pequeno2 {
-	float: left;
-	height: 395px;
-	width: 360px;
-	margin-left: 12.75px;
-	margin-top: 30px;
-	background-color: #666;
+.mundo {
+	width: 226px;
+	height: 378px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 15px;
 }
-#container .grande2 {
-	float: left;
-	width: 653px;
-	margin-left: 12.75px;
-	height: 395px;
-	margin-top: 30px;
-	background-color: #333;
+.noticia {
+	width: 310px;
+	height: 339px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 5px;
+	margin-left: 10px;
 }
-#container2 .redes {
-	float: left;
-	height: 85px;
-	width: 292px;
-	background-color: #CCC;
-	margin-top: 30px;
+.mistura {
+	width: 560px;
+	height: 339px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 5px;
+	margin-left: 20px;
 }
-#container2 .publicidad {
-	float: left;
-	height: 252px;
-	width: 300px;
-	background-color: #666;
-	margin-top: 10px;
+.derecha {
+	width: 270px;
+	height: 809px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-top: 25px;
 }
-#container2 .versionimpresa {
-	float: left;
-	height: 288px;
-	width: 250px;
-	background-color: #333;
-	margin-top: 10px;
+.redessociales {
+	width: 251px;
+	height: 74px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
-#container2 .encuesta {
-	float: left;
-	height: 175px;
-	width: 250px;
-	background-color: #CCC;
-	margin-top: 10px;
+.aptitus {
+	width: 271px;
+	height: 217px;	
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-top: 5px;
+}
+.versionimpresa {
+	width: 215px;
+	height: 247px;	
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-top: 13px;
+	margin-left: 15px;
+}
+.encuesta {
+	width: 215px;
+	height: 161px;	
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-top: 5px;
+	margin-left: 15px;
 }
 
 footer {
