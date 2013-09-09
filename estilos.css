@@ -58,6 +58,7 @@ p {
 .contenido{
 	width: 1170px;
 	height: 809px;
+	margin: 0px;
 }
 .izquierda {
 	width: 900px;
