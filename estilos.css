@@ -170,11 +170,14 @@ p {
 .footer p {
 	font-size: 12px;
 	color: #6a6c73;
-	line-height: 15px;
+	line-height: 12px;
 }
 .contactenos {
 	width: 322,75px;
 	height: 286px;
+}
+.contactenos a{
+	line-height: 14px;
 }
 .contactenos1 {
 	width: 161,375px;
@@ -188,6 +191,9 @@ p {
 	width: 300px;
 	height: 286px;
 	background: #333333;
+}
+.redaccion a{
+	line-height: 14px;
 }
 .redaccion1 {
 	width: 161,375px;
