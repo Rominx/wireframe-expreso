@@ -58,6 +58,20 @@ p {
 .carruselfoto {
 	width: 1366px;
 	height: 374px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.carrusel {
+	width: 653px;
+	height: 374px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.fotonoticia {
+	width: 713px;
+	height: 374px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 .contenido{
 	width: 1170px;
