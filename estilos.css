@@ -59,6 +59,8 @@ p {
 	width: 1170px;
 	height: 809px;
 	margin-left: 98px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 .izquierda {
 	width: 900px;
