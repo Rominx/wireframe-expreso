@@ -56,9 +56,9 @@ p {
 	background: #000000;
 }
 .contenido{
-	width: 1366px;
+	width: 1170px;
 	height: 809px;
-	margin: 0px;
+	margin-left: 98px;
 }
 .izquierda {
 	width: 900px;
