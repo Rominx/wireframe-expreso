@@ -168,7 +168,9 @@ p {
 	clear: both;
 	}
 .footer p {
-	font-size: 10px; color: #6a6c73; 
+	font-size: 12px;
+	color: #6a6c73;
+	font-weight: 10px;
 
 }
 .contactenos {
