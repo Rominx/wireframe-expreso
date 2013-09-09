@@ -171,20 +171,24 @@ p {
 	font-size: 12px; color: #6a6c73; 
 
 }
-.contactenos{
+.contactenos {
 	width: 322,75px;
 	height: 286px;
-
 }
-.contactenos1{
+.contactenos1 {
 	width: 161,375px;
 	height: 279px;
-
 }
-.contactenos2{
+.contactenos2 {
     width: 161,375px;
 	height: 279px;
 }
-
-
-	
+.redaccion {
+	width: 322,75px;
+	height: 286px;
+	background: #333333;
+}
+.redaccion1 {
+	height: 279px;
+	background: #bbbbbb;
+	}
