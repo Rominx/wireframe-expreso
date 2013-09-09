@@ -190,7 +190,6 @@ p {
 .redaccion {
 	width: 300px;
 	height: 286px;
-	background: #333333;
 }
 .redaccion2 a{
 	line-height: 16px;
@@ -198,10 +197,7 @@ p {
 .redaccion1 {
 	width: 161,375px;
 	height: 279px;
-	background: #bbbbbb;
 	}
 .redaccion2 {
 	width: 161,375px;
 	height: 279px;
-	background: #cccccc;
-	}
